@@ -1,5 +1,5 @@
 # ng-captcha-demo
-A demo app for implementation of Google's reCaptcha API
+A demo app for implementation of Google's reCaptcha API V2
 
 ### working demo [link here](http://codecasm.com/demo/ng-recaptcha/)
 
