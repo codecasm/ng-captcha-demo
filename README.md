@@ -10,4 +10,8 @@ A demo app for implementation of Google's reCaptcha API
 4. Finally, run your app using command ```npm serve```
 5. Find your output at [http://localhost:4200](http://localhost:4200)
 
+# Features can be added
+1. server side validation with **SECRET_KEY**
+2. Please ignore service file in the code created _still to implement_
+
 ## :heart: Happy Coding :heart:
